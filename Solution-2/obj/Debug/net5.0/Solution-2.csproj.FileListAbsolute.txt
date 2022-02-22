@@ -1,0 +1,16 @@
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.exe
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.deps.json
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.runtimeconfig.json
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.runtimeconfig.dev.json
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.dll
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\ref\Solution-2.dll
+D:\C# Tasks\20220215-Task6\Solution-2\bin\Debug\net5.0\Solution-2.pdb
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.csproj.AssemblyReference.cache
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.AssemblyInfoInputs.cache
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.AssemblyInfo.cs
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.csproj.CoreCompileInputs.cache
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.dll
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\ref\Solution-2.dll
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.pdb
+D:\C# Tasks\20220215-Task6\Solution-2\obj\Debug\net5.0\Solution-2.genruntimeconfig.cache
