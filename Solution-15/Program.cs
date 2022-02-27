@@ -16,7 +16,7 @@ namespace Solution_15
             //neticede alinan metn zerkalni olub olmadigini yoxla.
 
 
-            string txt = Console.ReadLine();
+            string txt = Console.ReadLine().ToLower();
             char a = 'a';
             char b = 'b';
             char c = 'c';
